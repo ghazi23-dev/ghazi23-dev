@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ghazi23-dev](https://github.com/ghazi23-dev)
 
-- 💬 Ask me about **C# , MYSQL , SQL , JAVA**
+- 💬 Ask me about **C# , MYSQL , SQL , JAVA , PL/SQL**
 
 - 📫 How to reach me **TheRealGh43zi3#4850**
 
