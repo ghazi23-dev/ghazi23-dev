@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **ERP Project**
 
-- 🌱 I’m currently learning **Vue JS & .NET Framework & C#**
+- 🌱 I’m currently learning **React JS & .NET Framework & C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ghazi23-dev](https://github.com/ghazi23-dev)
 
