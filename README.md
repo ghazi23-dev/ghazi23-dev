@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/therealgh43zi" target="blank"><img src="https://img.shields.io/twitter/follow/therealgh43zi?logo=twitter&style=for-the-badge" alt="therealgh43zi" /></a> </p>
 
-- 🔭 I’m currently working on **ERP Project**
+- 🔭 I’m currently working on **ERP SYS Project**
 
 - 🌱 I’m currently learning **React JS & .NET Framework & C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ghazi23-dev](https://github.com/ghazi23-dev)
 
-- 💬 Ask me about **C# , MYSQL , SQL , JAVA , PL/SQL**
+- 💬 Ask me about **C# , .NET , MYSQL , SQL , JAVA , PL/SQL**
 
 - 📫 How to reach me **TheRealGh43zi3#4850**
 
